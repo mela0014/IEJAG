@@ -1,0 +1,15 @@
+//autores: sebasstian chavarria, melani usuga
+//fecha:26/08/2024
+//descripcion:codigo de cuenta regresiva del 99 al 1
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        for (int i = 99; i >= 1; i--)
+        {
+            Console.WriteLine(i);
+        }
+    }
+}
